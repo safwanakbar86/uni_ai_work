@@ -7,3 +7,5 @@ This repository includes my univeristy assignments for the course of Artifical I
    * Depth-First Search (DFS)
    * Uniform Cost Search (UCS)
    * Iterative Deepening Search (IDS)
+
+2. Solving "Chomp" using the Minimax algorithm
