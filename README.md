@@ -8,4 +8,4 @@ This repository includes my univeristy assignments for the course of Artifical I
    * Uniform Cost Search (UCS)
    * Iterative Deepening Search (IDS)
 
-2. Solving "Chomp" using the Minimax algorithm
+2. Solving [Chomp](https://github.com/safwanakbar86/uni_ai_work/blob/main/Ai_Assignment_2.jpg) using the Minimax algorithm
